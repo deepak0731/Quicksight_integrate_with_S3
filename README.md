@@ -10,7 +10,7 @@ Save both files onto your computer.
 
 Step #2: Store this dataset in Amazon S3
 
-"Create Bucket" with S3 console  
+"Create Bucket" with S3 
 Name the bucket (e.g., "deepak-aws-project") and keep the settings as default.
 Upload the CSV file and the "manifest.json" file into the bucket.
 Replace the URL in the "manifest.json" file with the S3 URL of your dataset.
